@@ -81,6 +81,24 @@ public class Array {
 //            if (value == "Volvo") it.remove();
 //        }
 //        System.out.println(cars);
+
+//         ---------------------------------------------------
+
+//        Vector<String> cars = new Vector<String>();
+//        cars.add("Volvo");
+//        cars.add("Opel");
+//        cars.add("Opel");
+//        cars.add("Opel");
+//        cars.add("Benz");
+//        cars.set(1, "BMW");
+//        cars.remove(2);
+//        cars.clear();
+//        Collections.sort(cars);
+
+//        System.out.println(cars.contains("BMW"));
+//        System.out.println(cars.get(2));
+//        System.out.println(cars.size());
+//        System.out.println(cars);
     }
 
 }
